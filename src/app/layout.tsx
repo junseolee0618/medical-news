@@ -21,11 +21,11 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL('https://medical-news-2dsryvgv7-junseolees-projects.vercel.app'),
+  metadataBase: new URL('https://junseolee0618.github.io/medical-news'),
   openGraph: {
     title: 'Medical News - 최신 의학 뉴스와 연구 정보',
     description: '최신 의학 연구, 의료 기술, 임상 시험 결과, 헬스케어 정책 등 전문적인 의료 정보를 제공합니다.',
-    url: 'https://medical-news-2dsryvgv7-junseolees-projects.vercel.app',
+    url: 'https://junseolee0618.github.io/medical-news',
     siteName: 'Medical News',
     locale: 'ko_KR',
     type: 'website',
@@ -43,6 +43,9 @@ export const metadata: Metadata = {
   },
   verification: {
     google: 'u-vGybvCSo_OFO7rJeHcWdwvvdhMZwHU4iqtp4UEvrM',
+    other: {
+      'google-site-verification': 'u-vGybvCSo_OFO7rJeHcWdwvvdhMZwHU4iqtp4UEvrM'
+    }
   },
 }
 

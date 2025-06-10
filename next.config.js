@@ -2,7 +2,8 @@
 const nextConfig = {
   reactStrictMode: true,
   output: 'export',
-  basePath: process.env.NEXT_PUBLIC_BASE_PATH || '',
+  basePath: '/medical-news',
+  assetPrefix: '/medical-news/',
   images: {
     unoptimized: true,
     remotePatterns: [
