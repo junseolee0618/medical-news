@@ -42,9 +42,9 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    google: 'u-vGybvCSo_OFO7rJeHcWdwvvdhMZwHU4iqtp4UEvrM',
+    google: 'CIkcwPIfInlmkcCNGToo55bJeF2VILLb0gzm7Xuj_ac',
     other: {
-      'google-site-verification': 'u-vGybvCSo_OFO7rJeHcWdwvvdhMZwHU4iqtp4UEvrM'
+      'google-site-verification': 'CIkcwPIfInlmkcCNGToo55bJeF2VILLb0gzm7Xuj_ac'
     }
   },
 }
