@@ -4,7 +4,7 @@
   "private": false,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && touch out/.nojekyll",
+    "build": "next build && next export -o out && touch out/.nojekyll",
     "start": "next start",
     "lint": "next lint",
     "update-articles": "ts-node src/scripts/updateArticles.ts",
